@@ -100,22 +100,6 @@ const developer = new FrontendDeveloper();
 ### 🔥 GitHub Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=7yassinabdelkhaleq-arch&theme=dark&hide_border=true)](https://github.com/7yassinabdelkhaleq-arch)
 
----
-
-### 📈 GitHub Profile Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=7yassinabdelkhaleq-arch&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=79c0ff)](https://github.com/7yassinabdelkhaleq-arch)
-
----
-
-### 💻 Top Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7yassinabdelkhaleq-arch&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff)](https://github.com/7yassinabdelkhaleq-arch)
-
----
-
-### 🎯 Quick Stats
-![GitHub followers](https://img.shields.io/github/followers/7yassinabdelkhaleq-arch?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/7yassinabdelkhaleq-arch?style=social)
-
 </div>
 
 ---
