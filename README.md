@@ -34,16 +34,18 @@ I'm a passionate **Frontend Developer** learning to build beautiful and responsi
 
 ## 📚 Learning Journey
 
-\`\`\`
 HTML & CSS     ✅ Solid Foundation
-JavaScript     ✅ Core Concepts
+JavaScript     ✅ Good Foundation  
 Bootstrap      ✅ Responsive Design
 Tailwind CSS   ✅ Utility-First Approach
 Git & GitHub   ✅ Version Control Basics
-TypeScript     ✅ Type Safety
+TypeScript     ⏳ Learning Basics
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Next: React / Angular Framework
-\`\`\`
+Roadmap:
+  📍 Current: Mastering JS & TS Fundamentals
+  📍 Phase 1: Angular Framework (Primary Focus)
+  📍 Phase 2: React.js (Secondary)
+  📍 Phase 3: Full-Stack Development
 
 ---
 
