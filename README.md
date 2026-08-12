@@ -76,17 +76,35 @@ I'm a passionate **Frontend Developer** learning to build beautiful and responsi
 
 ## 🔥 Featured Projects
 
-*Check out my repositories for projects and contributions!*
+### 1. 🅱️ Bootstrap Exam
+A responsive web design project showcasing Bootstrap framework expertise with modern layout and component usage.
 
-```javascript
-const frontendDeveloper = {
-  name: "Yassin Abdelkhaleq",
-  skills: ["HTML", "CSS", "JavaScript", "TypeScript", "Bootstrap", "Tailwind"],
-  currentFocus: ["Angular", "TypeScript"],
-  learning: ["Angular Framework", "Advanced JavaScript", "React.js"],
-  passionate_about: ["Clean Code", "Responsive Design", "User Experience"]
-}
-```
+- 🌐 **Live Demo:** [BootStrap Exam](https://7yassinabdelkhaleq-arch.github.io/BootStrap-Exam/)
+- 📁 **Repository:** [View Code](https://github.com/7yassinabdelkhaleq-arch/BootStrap-Exam)
+- 🛠️ **Tech:** HTML, CSS, Bootstrap
+
+---
+
+### 2. 📝 Assignment 6
+A practical frontend project demonstrating HTML & CSS skills with interactive elements and responsive design.
+
+- 🌐 **Live Demo:** [Assignment 6](https://7yassinabdelkhaleq-arch.github.io/assignment-6/)
+- 📁 **Repository:** [View Code](https://github.com/7yassinabdelkhaleq-arch/assignment-6)
+- 🛠️ **Tech:** HTML, CSS, JavaScript
+
+---
+
+### 3. ✨ Assignment 11
+An advanced frontend project integrating JavaScript functionality with modern CSS styling and user interactions.
+
+- 🌐 **Live Demo:** [Assignment 11](https://7yassinabdelkhaleq-arch.github.io/Assignment-11/)
+- 📁 **Repository:** [View Code](https://github.com/7yassinabdelkhaleq-arch/Assignment-11)
+- 🛠️ **Tech:** HTML, CSS, JavaScript, Tailwind CSS
+
+---
+
+### 📌 More Projects Coming Soon!
+*Stay tuned for Angular & React projects!*
 
 ---
 
