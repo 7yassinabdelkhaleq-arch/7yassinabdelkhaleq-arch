@@ -76,28 +76,28 @@ I'm a passionate **Frontend Developer** learning to build beautiful and responsi
 
 ## 🔥 Featured Projects
 
-### 1. 🅱️ Bootstrap Exam
-A responsive web design project showcasing Bootstrap framework expertise with modern layout and component usage.
+### 1. 🎨 Responsive Components Hub
+A comprehensive Bootstrap showcase demonstrating responsive design patterns, modern layouts, and reusable UI components with professional styling.
 
-- 🌐 **Live Demo:** [BootStrap Exam](https://7yassinabdelkhaleq-arch.github.io/BootStrap-Exam/)
+- 🌐 **Live Demo:** [View Project](https://7yassinabdelkhaleq-arch.github.io/BootStrap-Exam/)
 - 📁 **Repository:** [View Code](https://github.com/7yassinabdelkhaleq-arch/BootStrap-Exam)
 - 🛠️ **Tech:** HTML, CSS, Bootstrap
 
 ---
 
-### 2. 📝 Assignment 6
-A practical frontend project demonstrating HTML & CSS skills with interactive elements and responsive design.
+### 2. 🎯 Interactive Dashboard
+A dynamic web application featuring JavaScript interactivity, form handling, and responsive layouts. Demonstrates core frontend fundamentals with practical functionality.
 
-- 🌐 **Live Demo:** [Assignment 6](https://7yassinabdelkhaleq-arch.github.io/assignment-6/)
+- 🌐 **Live Demo:** [View Project](https://7yassinabdelkhaleq-arch.github.io/assignment-6/)
 - 📁 **Repository:** [View Code](https://github.com/7yassinabdelkhaleq-arch/assignment-6)
 - 🛠️ **Tech:** HTML, CSS, JavaScript
 
 ---
 
-### 3. ✨ Assignment 11
-An advanced frontend project integrating JavaScript functionality with modern CSS styling and user interactions.
+### 3. ✨ Modern UI Design System
+An advanced frontend project showcasing modern design principles with Tailwind CSS, JavaScript interactivity, and pixel-perfect responsive layouts.
 
-- 🌐 **Live Demo:** [Assignment 11](https://7yassinabdelkhaleq-arch.github.io/Assignment-11/)
+- 🌐 **Live Demo:** [View Project](https://7yassinabdelkhaleq-arch.github.io/Assignment-11/)
 - 📁 **Repository:** [View Code](https://github.com/7yassinabdelkhaleq-arch/Assignment-11)
 - 🛠️ **Tech:** HTML, CSS, JavaScript, Tailwind CSS
 
