@@ -34,18 +34,21 @@ I'm a passionate **Frontend Developer** learning to build beautiful and responsi
 
 ## 📚 Learning Journey
 
-HTML & CSS     ✅ Solid Foundation
-JavaScript     ✅ Good Foundation  
-Bootstrap      ✅ Responsive Design
-Tailwind CSS   ✅ Utility-First Approach
-Git & GitHub   ✅ Version Control Basics
-TypeScript     ⏳ Learning Basics
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Roadmap:
-  📍 Current: Mastering JS & TS Fundamentals
-  📍 Phase 1: Angular Framework (Primary Focus)
-  📍 Phase 2: React.js (Secondary)
-  📍 Phase 3: Full-Stack Development
+| Technology | Status | Level |
+|-----------|--------|-------|
+| HTML & CSS | ✅ | Solid Foundation |
+| JavaScript | ✅ | Good Foundation |
+| Bootstrap | ✅ | Responsive Design |
+| Tailwind CSS | ✅ | Utility-First Approach |
+| Git & GitHub | ✅ | Version Control Basics |
+| TypeScript | ⏳ | Learning Basics |
+
+### 🎯 Development Roadmap
+
+- **📍 Current Phase:** Mastering JavaScript & TypeScript Fundamentals
+- **📍 Phase 1:** Angular Framework (Primary Focus) 🎯
+- **📍 Phase 2:** React.js (Secondary)
+- **📍 Phase 3:** Full-Stack Development
 
 ---
 
@@ -54,7 +57,7 @@ Roadmap:
 - 📖 Deepening my understanding of **JavaScript & TypeScript**
 - 🎨 Building **Responsive & Interactive Web Pages**
 - 📦 Learning **Component-Based Architecture**
-- 🚀 Preparing for **Frontend Frameworks** (React/Vue)
+- 🚀 Preparing for **Angular Framework** (Primary Focus)
 - 💾 Mastering **Git & GitHub** for collaboration
 
 ---
@@ -63,9 +66,9 @@ Roadmap:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yassinabdelkhaleq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=7yassinabdelkhaleq-arch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yassinabdelkhaleq&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7yassinabdelkhaleq-arch&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -75,14 +78,15 @@ Roadmap:
 
 *Check out my repositories for projects and contributions!*
 
-\`\`\`javascript
+```javascript
 const frontendDeveloper = {
   name: "Yassin Abdelkhaleq",
   skills: ["HTML", "CSS", "JavaScript", "TypeScript", "Bootstrap", "Tailwind"],
-  learning: ["React", "Vue.js", "Advanced JS"],
+  currentFocus: ["Angular", "TypeScript"],
+  learning: ["Angular Framework", "Advanced JavaScript", "React.js"],
   passionate_about: ["Clean Code", "Responsive Design", "User Experience"]
 }
-\`\`\`
+```
 
 ---
 
