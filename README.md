@@ -88,10 +88,10 @@ const frontendDeveloper = {
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/yassinabdelkhaleq)
-[![Email](https://img.shields.io/badge/Email-Message-D14836?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yassinabdelkhaleq)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yassinabdelkhaleq)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/7yassinabdelkhaleq-arch)
+[![Email](https://img.shields.io/badge/Email-Message-D14836?style=for-the-badge&logo=gmail)](mailto:7yassinabdelkhaleq@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yassin-abd-elkhaleq-9ab777405/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/100yassin991)
 
 </div>
 
