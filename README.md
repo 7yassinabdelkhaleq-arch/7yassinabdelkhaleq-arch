@@ -42,7 +42,7 @@ Tailwind CSS   ✅ Utility-First Approach
 Git & GitHub   ✅ Version Control Basics
 TypeScript     ✅ Type Safety
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Next: React / Vue.js Framework
+Next: React / Angular Framework
 \`\`\`
 
 ---
