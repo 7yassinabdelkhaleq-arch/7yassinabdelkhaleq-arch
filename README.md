@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Frontend Developer** learning to build beautiful and responsive web applications. I love turning ideas into reality through code and exploring new technologies. Currently focused on mastering modern frontend technologies and best practices.
+I'm a passionate **Frontend Developer** learning to build beautiful and responsive web applications. I love turning ideas into reality through code and exploring new technologies. Currently focused on mastering modern frontend technologies and best practices with **Angular as my primary framework**.
 
 ---
 
@@ -52,6 +52,37 @@ I'm a passionate **Frontend Developer** learning to build beautiful and responsi
 
 ---
 
+## 👨‍💻 About My Code
+
+```javascript
+class FrontendDeveloper {
+  constructor() {
+    this.name = "Yassin Abdelkhaleq";
+    this.location = "Egypt";
+    this.passion = "Building Beautiful Web Applications";
+  }
+
+  mySkills = {
+    languages: ["HTML", "CSS", "JavaScript", "TypeScript"],
+    frameworks: ["Bootstrap", "Tailwind CSS"],
+    tools: ["Git", "GitHub", "VS Code"],
+    learning: ["Angular", "React.js"]
+  };
+
+  currentFocus() {
+    return "Mastering JavaScript & TypeScript + Angular Framework";
+  }
+
+  passionate_about() {
+    return ["Clean Code", "Responsive Design", "User Experience"];
+  }
+}
+
+const developer = new FrontendDeveloper();
+```
+
+---
+
 ## 🎯 What I'm Doing
 
 - 📖 Deepening my understanding of **JavaScript & TypeScript**
@@ -81,11 +112,9 @@ I'm a passionate **Frontend Developer** learning to build beautiful and responsi
 
 ---
 
-### 🎯 Quick Stats Badges
+### 🎯 Quick Stats
 ![GitHub followers](https://img.shields.io/github/followers/7yassinabdelkhaleq-arch?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/7yassinabdelkhaleq-arch?style=social)
-![Commits Badge](https://img.shields.io/badge/Commits-Active-brightgreen?style=for-the-badge)
-![Repositories Badge](https://img.shields.io/badge/Repositories-Growing-blue?style=for-the-badge)
 
 </div>
 
@@ -125,6 +154,24 @@ An advanced frontend project showcasing modern design principles with Tailwind C
 
 ---
 
+## 🔄 The Developer's Journey
+
+<div align="center">
+
+### **Code Cycle**
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="Working"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="Mystery"/>
+
+**`{ Broken } → { It's Working! } → { But How? }`**
+
+</div>
+
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -144,10 +191,18 @@ An advanced frontend project showcasing modern design principles with Tailwind C
 
 ---
 
+## 📈 Let's Grow Together!
+
+I'm always open to collaborating on projects, discussing frontend development, or just having tech conversations. Feel free to reach out!
+
+---
+
 <div align="center">
 
 ### Made with ❤️ by Yassin Abdelkhaleq
 
 *"Code is poetry written in a language computers understand."*
+
+**Last Updated:** 2026 | [View My GitHub](https://github.com/7yassinabdelkhaleq-arch)
 
 </div>
